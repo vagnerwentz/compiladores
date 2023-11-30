@@ -28,3 +28,12 @@ Entrar dentro do diretório `Inputer` e rodar `dotnet build && dotnet run`
 No projeto do compilador, entrer dentro do arquivo CompilerREPL e procurar a função `LoadSubmissions` e embaixo o `currentDirectory`
 
 Você deverá ajustar o path também.
+
+<img src="/images/foto_1.png">
+<img src="/images/foto_2.png">
+<img src="/images/foto_3.png">
+<img src="/images/foto_4.png">
+<img src="/images/foto_5.png">
+<img src="/images/foto_6.png">
+<img src="/images/foto_7.png">
+<img src="/images/foto_8.png">
